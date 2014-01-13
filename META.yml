@@ -28,7 +28,7 @@ no_index:
 provides:
   App::mookview:
     file: lib/App/mookview.pm
-    version: 0.01
+    version: 0.02
 requires:
   File::ShareDir: 0
   Number::Format: 0
@@ -42,4 +42,4 @@ resources:
   bugtracker: https://github.com/yusukebe/App-mookview/issues
   homepage: https://github.com/yusukebe/App-mookview
   repository: git://github.com/yusukebe/App-mookview.git
-version: 0.01
+version: 0.02
